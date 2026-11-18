@@ -1,0 +1,8 @@
+{
+  "name": "Serralheria Serrano — Demonstração",
+  "short_name": "Serrano",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f8f8",
+  "theme_color": "#192c37"
+}
